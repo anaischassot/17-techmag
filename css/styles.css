@@ -15,14 +15,12 @@ header {
   border-top: 5px solid black;
 }
 
-h1,
 h2,
 p,
 .cta-container {
   text-align: center;
 }
 
-h1,
 .slogan,
 .section-produit h2,
 .cta-dark {
@@ -43,4 +41,16 @@ h1,
 .section-produit,
 footer {
   background-color: #000;
+}
+
+header img {
+  width: 150px;
+}
+
+main img {
+  width: 100px;
+}
+
+.section-intro img {
+  width: 40px;
 }
