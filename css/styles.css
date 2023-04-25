@@ -2,11 +2,17 @@ body {
   max-width: 320px;
   margin: auto;
   background: #ddd;
+  border: #000 solid 2px;
 }
 
 img {
   display: block;
   max-width: 100%;
+}
+
+header {
+  background-image: url(../img/bg-header.jpg);
+  border-top: 5px solid black;
 }
 
 h1,
@@ -25,5 +31,16 @@ h1,
 
 .box-title {
   background-color: #000;
-  padding: 15px 30px;
+  padding: 5px;
+  margin: 20px;
+}
+
+.section-intro,
+.section-contact {
+  background-color: #E3F4FF;
+}
+
+.section-produit,
+footer {
+  background-color: #000;
 }
