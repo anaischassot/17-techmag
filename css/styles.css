@@ -8,3 +8,22 @@ img {
   display: block;
   max-width: 100%;
 }
+
+h1,
+h2,
+p,
+.cta-container {
+  text-align: center;
+}
+
+h1,
+.slogan,
+.section-produit h2,
+.cta-dark {
+  color: #E3F4FF;
+}
+
+.box-title {
+  background-color: #000;
+  padding: 15px 30px;
+}
